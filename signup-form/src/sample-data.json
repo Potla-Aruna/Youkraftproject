@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "fullName": "Aruna Potla",
+        "address": "1-43 Hitech City",
+        "phoneNumber": "987-546-1234",
+        "email": "aruna.potla@gmail.com"
+    },
+    {
+        "id": 2,
+        "fullName": "Hari Priya",
+        "address": "1-43 Madhapur",
+        "phoneNumber": "987-654-4321",
+        "email": "hari.priya@gmail.com"
+    },
+    {
+        "id": 3,
+        "fullName": "Lakshmi S",
+        "address": "1-43 Jubliee Hills",
+        "phoneNumber": "854-546-2233",
+        "email": "s.lakshmi@gmail.com"
+    },
+    {
+        "id": 4,
+        "fullName": "Gayathri K",
+        "address": "1-43 Banjara Hills",
+        "phoneNumber": "773-632-1234",
+        "email": "gayathri.k@gmail.com"
+    }
+]
